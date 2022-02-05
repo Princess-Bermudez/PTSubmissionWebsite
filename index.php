@@ -8,9 +8,9 @@
  <h1 align="center" style="font-size:7vw"><font color="white" face="Calibri">
     Welcome!
  </h1>
-	 <br>
-<font color="#e3e8ea" face="Century Gothic" size="6">
+<p><font color="#e3e8ea" face="Century Gothic" size="6">
     This is our webpage.
+</p> </font>
 <p align="center"><font color="#e3e8ea" face="Century Gothic" size="5">
     Feel free to choose a subject!☻
 </p></h2>
