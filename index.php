@@ -1,11 +1,12 @@
 <html> 
  <head>
   <title> Group 22: Main Web Page</title>
+ <link rel="icon" href="logo.png" type="image/icon type"
  </head> 
 
 <body background="webpg bg.jpg"> 
 						<center>
- <h1 align="center"><font color="white" face="Calibri">
+ <h1 align="center"><font color="white" face="Calibri" size="8">
     Welcome!
  </h1>
 <p><font color="#e3e8ea" face="Century Gothic" size="6">
