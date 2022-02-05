@@ -16,17 +16,17 @@
 </P></i></b></font>
 
  <a href="http://www.google.com"> 
-  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for CLE (2).png" 
+  <img src="CLick here for CLE (2).png" 
     style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> 
  </a>  
 
  <a href="http://www.google.com"> 
-  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for CAE.png"
+  <img src="CLick here for CAE.png"
    style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
  </a>  
 
  <a href="http://www.google.com"> 
-  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for Mathematics.png"
+  <img src="CLick here for Mathematics.png"
    style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
  </a>  
 
