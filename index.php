@@ -6,16 +6,15 @@
 
 <body background="webpg bg.jpg"> 
 						<center>
- <h1 align="center"><font color="white" face="Calibri">
+  <h1 align="center" style="font-size:7vw"><font color="white" face="Calibri">
     Welcome!
  </h1>
-<h2><font color="#e3e8ea" face="Century Gothic">
+<br>
+<font color="#e3e8ea" face="Century Gothic" size="7">
     This is our webpage.
-</h2> </font>
-<h3><font color="#e3e8ea" face="Century Gothic">
+<p align="center"><font color="#e3e8ea" face="Century Gothic" size="5">
     Feel free to choose a subject!☻
-</p></h3>
-
+</p></h2>
 <a href="http://www.google.com"> 
     <img src="click here for CAE.png" width="465" height="265" hspace="8">
  </a>  
