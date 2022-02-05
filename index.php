@@ -3,7 +3,7 @@
   <title> Group 22: Main Web Page</title>
  </head> 
 
-<body background="download.gif"> 
+<body background="webpg bg.png"> 
 						<center>
  <h1 align="center" style="font-size:7vw"><font color="white" face="Calibri">
     Welcome!
