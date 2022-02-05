@@ -10,9 +10,9 @@
     Welcome!
  </h1>
 <br>
-<font color="#e3e8ea" face="Century Gothic" size="7">
+<font color="#e3e8ea" face="Century Gothic" size="6">
     This is our webpage.
-<p align="center"><font color="#e3e8ea" face="Century Gothic" size="5">
+<p align="center"><font color="#e3e8ea" face="Century Gothic" size="4">
     Feel free to choose a subject!☻
 </p></h2>
 <a href="http://www.google.com"> 
