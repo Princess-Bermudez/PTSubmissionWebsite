@@ -6,7 +6,7 @@
 
 <body background="webpg bg.jpg"> 
 						<center>
- <h1 align="center"><font color="white" face="Calibri" size="16">
+ <h1 align="center"><font color="white" face="Calibri" size="9">
     Welcome!
  </h1>
 <p><font color="#e3e8ea" face="Century Gothic" size="6">
