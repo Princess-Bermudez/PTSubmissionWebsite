@@ -7,8 +7,8 @@
 <body background="webpg bg.jpg"> 
 						<center>
   <h1 align="center" style="font-size:7vw"><font color="white" face="Calibri">
-    Welcome! </h1>
-<br>
+    Welcome! 
+</h1>
 <font color="#e3e8ea" face="Century Gothic" size="6">
     This is our webpage.
 <p align="center"><font color="#e3e8ea" face="Century Gothic" size="4">
