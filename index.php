@@ -1,7 +1,7 @@
 <html> 
  <head>
   <title> Group 22: Main Web Page</title>
- <link rel="icon" href="g22.png" type="image/icon type"
+ <link rel="icon" href="9d g22.png" type="image/icon type"
  </head> 
 
 <body background="webpg bg.jpg"> 
