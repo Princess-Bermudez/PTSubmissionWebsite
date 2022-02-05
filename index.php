@@ -9,22 +9,34 @@
     Welcome!
  </h1>
 <p align="center"><font color="#e3e8ea" face="Century Gothic" size="5">
-    This is our webpage
+    This is our webpage.
+<p>
+<p align="center"><font color="#e3e8ea" face="Century Gothic" size="5">
+    Feel free to choose a subject!☻
 </p></h2>
+
+ <a href="http://www.google.com"> 
+  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for CLE (2).png" 
+    style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> 
+ </a>  
+
+ <a href="http://www.google.com"> 
+  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for CAE.png"
+   style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+ </a>  
+
+ <a href="http://www.google.com"> 
+  <img src="C:\Users\Princess\Desktop\PT 22 Web Page\CLick here for Mathematics.png"
+   style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+ </a>  
+
 <p align="center"><i><b><font color="#9ba8ae" face="Century Gothic" size="3">
     By: Arimas, Barneso, Bermudez, Marande, Tapel
 </P></i></b></font>
 
-<a href="http://www.google.com"> 
-    <img src="click here for CAE.png" width="465" height="265" hspace="8">
- </a>  
- <a href="http://www.google.com"> 
-    <img src="Click here for CLE (2).png" width="465" height="265" hspace="8">
- </a>  
-<a href="http://www.google.com"> 
-  <img src="Click here for Mathematics.png" width="465" height="265" hspace="8">
- </a>  
-
+<a href= "http://www.google.com">
+ <button> Contact us! </button>
+</a> 
 
 </body>
 </html> 
