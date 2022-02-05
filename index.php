@@ -30,7 +30,7 @@
 </P></i></b></font>
 
 <a href= "http://www.google.com">
- <button> Contact us! </button>
+ <button> About Us </button>
 </a> 
 
 </body>
