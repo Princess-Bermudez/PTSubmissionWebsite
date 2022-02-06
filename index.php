@@ -25,7 +25,7 @@
  </a>  
 
 <p align="center"><i><b><font color="#9ba8ae" face="Century Gothic" size="3">
-    By: Arimas | Barneso | Bermudez | Marande | Tapel
+    By: Arimas • Barneso • Bermudez • Marande • Tapel
 </P></i></b></font>
 
 <a href= "http://www.google.com">
