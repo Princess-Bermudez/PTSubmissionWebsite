@@ -28,9 +28,6 @@
     By: Arimas • Barneso • Bermudez • Marande • Tapel
 </P></i></b></font>
 
-<a href= "http://www.google.com">
- <button> About Us </button>
-</a> 
 
 </body>
 </html> 
